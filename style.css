@@ -1,0 +1,52 @@
+body {
+    background-image: url(maaa.webp);
+    
+}
+
+.titulo {
+    color: rgb(7, 0, 0);
+}
+
+.digite {
+    font-size: 20px;
+}
+
+.info {
+    font-size: 20px;
+}
+.input1 {
+    background-color: rgb(120, 179, 228);
+    border: 0;
+    height: 20px;
+    border-radius: 10px;
+    color: rgb(10, 10, 10);
+    font-size: 20px;
+
+}
+
+.input2 {
+        background-color: rgb(122, 185, 243);
+        border: 0;
+        height: 20px;
+        border-radius: 10px;
+        color: rgb(12, 12, 12);
+        font-size: 20px;
+
+}
+
+.botao {
+        background: scroll ;
+        color: rgb(19, 84, 206);
+        height: 30px;
+        border-radius: 10px;
+        cursor: pointer
+
+}
+
+.botao:hover {
+    background-color: beige;
+    color: bisque;
+}
+
+    
+    
